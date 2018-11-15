@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Name_AMR1NS_162aa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "AMR1NS_162aa", "descriptio": "Processed swath", "timestamp": null, "begin": null, "end": null, "altitudeMo": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -120.243366333389986, 39.192730124499001 ], [ -120.036587234706019, 38.702051375205002 ], [ -120.207498103220985, 38.657237343947997 ], [ -120.416109263798035, 39.147919527406003 ], [ -120.243366333389986, 39.192730124499001 ] ] ] } }
+]
+}

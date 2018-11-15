@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Name_SJL1NS_142aa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "SJL1NS_142aa", "descriptio": "Processed swath", "timestamp": null, "begin": null, "end": null, "altitudeMo": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -119.05935802427399, 37.728109187039998 ], [ -118.503613816504014, 37.165920869908 ], [ -118.636649444092996, 37.080628927623003 ], [ -119.193979495334986, 37.642824971335997 ], [ -119.05935802427399, 37.728109187039998 ] ] ] } }
+]
+}

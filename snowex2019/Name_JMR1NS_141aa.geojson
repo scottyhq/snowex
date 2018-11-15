@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Name_JMR1NS_141aa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "JMR1NS_141aa", "descriptio": "Processed swath", "timestamp": null, "begin": null, "end": null, "altitudeMo": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -106.584575760294001, 36.047863483533 ], [ -106.44603189913903, 35.908375526183001 ], [ -106.578335230724974, 35.820220738029001 ], [ -106.717666782269987, 35.959710523251999 ], [ -106.584575760294001, 36.047863483533 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Name_SAG1NS_220aa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "SAG1NS_220aa", "descriptio": "Processed swath", "timestamp": null, "begin": null, "end": null, "altitudeMo": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -120.184964002265986, 39.429790569350999 ], [ -120.330198620673968, 39.294554202268998 ], [ -120.468949476735986, 39.384953824782002 ], [ -120.324649015166017, 39.520188219924002 ], [ -120.184964002265986, 39.429790569350999 ] ] ] } }
+]
+}

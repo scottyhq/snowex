@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Name_REY1SN_347aa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "REY1SN_347aa", "descriptio": "Processed swath", "timestamp": null, "begin": null, "end": null, "altitudeMo": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -116.831865142372976, 42.982299625464002 ], [ -116.923981595798011, 43.268110155026001 ], [ -116.729532585296965, 43.300903451128001 ], [ -116.639144439169968, 43.015094802870998 ], [ -116.831865142372976, 42.982299625464002 ] ] ] } }
+]
+}

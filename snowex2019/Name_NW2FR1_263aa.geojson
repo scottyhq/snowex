@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Name_NW2FR1_263aa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "NW2FR1_263aa", "descriptio": "Processed swath", "timestamp": null, "begin": null, "end": null, "altitudeMo": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -105.556768260885008, 39.884173942029001 ], [ -106.168379151930992, 39.821443532151001 ], [ -106.190493138446016, 39.959189145723002 ], [ -105.579579360902983, 40.021918789121997 ], [ -105.556768260885008, 39.884173942029001 ] ] ] } }
+]
+}

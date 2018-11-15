@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Name_LCC1WE_091aa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "LCC1WE_091aa", "descriptio": "Processed swath", "timestamp": null, "begin": null, "end": null, "altitudeMo": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -111.794572047019017, 40.667280248249 ], [ -111.564257337076981, 40.663876076701001 ], [ -111.566253678400983, 40.518454431995004 ], [ -111.797290649411025, 40.521857902640001 ], [ -111.794572047019017, 40.667280248249 ] ] ] } }
+]
+}
