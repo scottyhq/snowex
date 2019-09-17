@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "grandmesa-aoi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -108.453927395420465, 39.10387805164919 ], [ -107.733881392524879, 39.466876449803166 ], [ -107.418489341669783, 39.187189159422232 ], [ -108.16233851821481, 38.764682827144654 ], [ -108.453927395420465, 39.10387805164919 ] ] ] } }
+]
+}
